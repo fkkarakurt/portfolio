@@ -6,10 +6,10 @@ dev.to | digitalOcean hackathon 01.21
 
 <h3 align = "left"> Benimle iletişime geçin : </h3>
 <p align = "left">
-<a href="https://dev.to/fkkarakurt" target="blank"> <img align = "center" src = "https: // cdn. jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg "alt =" fkkarakurt "height =" 30 "width =" 40 "/> </a>
-<a href =" https://linkedin.com/in/fkkarakurt "target =" blank "> <img align =" center "src =" https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ linkedin.svg "alt =" fkkarakurt "yükseklik =" 30 "genişlik ="40 "/> </a>
-<a href="https://instagram.com/fkkarakurt" target="blank"> <img align =" center "src =" https://cdn.jsdelivr.net/npm /simple-icons@3.0.1/icons/instagram.svg "alt =" fkkarakurt "height =" 30 "width =" 40 "/> </a>
-<a href="/https://anatoliacode.com/feed" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0. 1 / icons / rss.svg "alt =" https://anatoliacode.com/feed "height =" 30 "width =" 40 "/> </a>
+<a href="https://dev.to/fkkarakurt" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg "alt =" fkkarakurt "height =" 30 "width =" 40 "/> </a>
+<a href =" https://linkedin.com/in/fkkarakurt "target =" blank "> <img align =" center "src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg "alt =" fkkarakurt "yükseklik =" 30 "genişlik ="40 "/> </a>
+<a href="https://instagram.com/fkkarakurt" target="blank"> <img align =" center "src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg "alt =" fkkarakurt "height =" 30 "width =" 40 "/> </a>
+<a href="/https://anatoliacode.com/feed" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg "alt =" https://anatoliacode.com/feed "height =" 30 "width =" 40 "/> </a>
 </p>
 
 <h3 align =" left "> Diller ve Araçlar: </h3>
