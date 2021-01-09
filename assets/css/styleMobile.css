@@ -1,0 +1,305 @@
+body {
+  overflow-x: hidden;
+}
+/* computers */
+.pc {
+  display: none;
+}
+/* smart phone */
+.sp {
+  display: block;
+}
+
+#logo.load,
+#meslek.load {
+  left: 8%;
+}
+
+nav.load,
+#copyright.load {
+  right: 8%;
+}
+
+.preloadFatih img {
+  width: 50%;
+}
+
+.preloadIsim h3 {
+  font-size: 12vw;
+}
+
+#preload p {
+  margin-left: 14%;
+  font-size: 14px;
+}
+
+#preload.is_active p {
+  margin-top: -1.2vh;
+}
+
+.karoselMerkezIMG {
+  width: 100%;
+  height: auto;
+  top: 28%;
+  left: 70%;
+  transform: translateY(-50%) translateX(-50%) skewX(-10deg);
+  -webkit-transform: translateY(-50%) translateX(-50%) skewX(-10deg);
+}
+
+.karoselMerkezIMG.load {
+  position: absolute;
+  top: 28%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%) skewX(0deg);
+  -webkit-transform: translateY(-50%) translateX(-50%) skewX(0deg);
+}
+
+.karoselMerkezIMG:after {
+  width: 100%;
+  height: auto;
+}
+
+.karoselMerkezIMG img {
+  width: 100%;
+  min-width: none;
+  height: auto;
+}
+
+.karoselMerkezBaslik h2 {
+  font-size: 8vw;
+  top: 50%;
+  left: -20%;
+  transform: translateY(0%) translateX(50%);
+  -webkit-transform: translateY(0%) translateX(50%);
+  margin-top: 11vh;
+}
+
+.karoselMerkezBaslik h2.load {
+  font-size: 8vw;
+  top: 50%;
+  left: -43%;
+  transform: translateY(0%) translateX(50%);
+  -webkit-transform: translateY(0%) translateX(50%);
+  margin-top: 11vh;
+}
+
+.karoselMerkezBaslikOut h2,
+.karoselMerkezBaslikPlace h2 {
+  min-height: auto;
+  width: 100%;
+}
+
+.karoselUp h2,
+.karoselUnder h2 {
+  left: 8%;
+  min-height: auto;
+}
+
+.karoselUp h2.load {
+  font-size: 8vw;
+  top: -2%;
+  min-height: auto;
+}
+
+.karoselUnder h2.load {
+  font-size: 8vw;
+  bottom: -2%;
+  min-height: auto;
+}
+
+#karosel.stop.up .karoselMerkezBaslik h2,
+#karosel.start.up .karoselMerkezBaslik h2,
+#karosel.stop.down .karoselMerkezBaslik h2,
+#karosel.start.down .karoselMerkezBaslik h2 {
+  left: -43%;
+  transform: translateY(0%) translateX(50%);
+  -webkit-transform: translateY(0%) translateX(50%);
+  margin-top: 11vh;
+}
+
+#sayac {
+  position: fixed;
+  top: 55%;
+  left: 7.5%;
+  transform: translateY(0%);
+  -webkit-transform: translateY(0%);
+  margin-top: 35px;
+  margin-left: 0px;
+  z-index: 10;
+}
+
+#sayac.load {
+  top: 50%;
+}
+
+#sayacSayi {
+  font-size: 4.5vw;
+}
+
+#slash,
+#maxSayi {
+  font-size: 2.8vw;
+}
+
+/* hakkında */
+
+#about.is_active .aboutFatih {
+  top: 50%;
+}
+
+.aboutIsimI h3 {
+  font-size: 15vw;
+  top: 37%;
+  left: 20%;
+}
+
+.aboutIsimII h3 {
+  font-size: 15vw;
+  top: 46%;
+  right: 6%;
+}
+
+.aboutIsimIII h3 {
+  font-size: 15vw;
+  left: 5%;
+}
+
+.aboutMetinAlani {
+  margin-left: 10%;
+  width: 80%;
+  padding-bottom: 20vh;
+}
+
+.aboutMetinAlani h3 {
+  font-size: 4.3vw;
+}
+
+.aboutMetinI {
+  font-size: 3.2vw;
+}
+
+.aboutMetinII {
+  font-size: 3.2vw;
+}
+
+.iletisim {
+  font-size: 2.8vw;
+}
+
+.eMail {
+  font-size: 4.3vw;
+}
+
+.socialMedia {
+  font-size: 3.2vw;
+}
+
+.works #about.is_active:after {
+  height: 180%;
+}
+
+body.works nav,
+body.works #logo {
+  top: 5%;
+}
+
+body.works #copyright,
+body.works #meslek {
+  bottom: 5%;
+}
+
+.backgroundAnim {
+  bottom: -40px;
+}
+
+.backgroundAnim.load {
+  height: 160px;
+  bottom: -40px;
+}
+
+.fkContent h1 {
+  min-height: 57px;
+  font-size: 7vw;
+  left: 7%;
+}
+
+.esnekBilgi {
+  display: inherit;
+}
+
+#bilgi {
+  font-size: 14px;
+  margin-top: -40px;
+}
+
+.esnekBilgiItem {
+  margin: 0 0 40px 40px;
+}
+
+.esnekBilgiItem:nth-child(2) {
+  width: 80%;
+}
+
+.esnekBilgiItem:nth-child(3) {
+  width: 80%;
+}
+
+#ziyaret {
+  margin-bottom: 140px;
+}
+
+#ziyaret p {
+  right: 40px;
+}
+
+.esnekI {
+  margin-bottom: 40px;
+}
+
+.esnekI img {
+  width: 90%;
+  margin-left: 5%;
+}
+
+.esnekII {
+  display: inherit;
+}
+
+.esnekIIitem {
+  width: 90%;
+  margin: 0 5% 40px;
+}
+
+.esnekIII {
+  display: inherit;
+}
+
+.esnekIIIitem {
+  width: 90%;
+  margin: 0 5% 40px;
+}
+
+.emegiGecenBaslik,
+.emegiGecenKutu {
+  margin-left: 40px;
+}
+
+#emegiGecen {
+  margin-bottom: 80px;
+}
+
+.emegiGecenKutu {
+  font-size: 11px;
+}
+
+.emegiGecenKutuItem:nth-child(1) {
+  min-width: 40%;
+}
+
+.ileriMetin h2 {
+  font-size: 7vw;
+}
+
+.ileriMetin a {
+  left: 7%;
+}
